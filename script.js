@@ -1,14 +1,14 @@
 function changeimage(){
-		document.getElementById("gifchange").src = "images/centralpark.gif.";
+		document.getElementById("gifchange").src = "images/centralpark.gif";
 }
 function changeimage2(){
-		document.getElementById("gifchange").src = "images/timesquare.gif.";
+		document.getElementById("gifchange").src = "images/timesquare.gif";
 }
 function changeimage3(){
-		document.getElementById("gifchange").src = "images/tenor.gif.";
+		document.getElementById("gifchange").src = "images/tenor.gif";
 }
 function changeimage4(){
-		document.getElementById("gifchange").src = "images/newyorkmove.gif.";
+		document.getElementById("gifchange").src = "images/newyorkmove.gif";
 }
 function resett(){
 		document.getElementById("gifchange").src = "images/map.jpg.";
@@ -21,18 +21,18 @@ function resett(){
 
 function delete1(){
 		document.getElementById("pic1").classList.remove("grey-filter");
-		document.getElementById("gifchange").src = "images/centralpark.gif.";
+		document.getElementById("gifchange").src = "images/centralpark.gif";
 
 }
 function delete2(){
 		document.getElementById("pic2").classList.remove("grey-filter");
-		document.getElementById("gifchange").src = "images/timesquare.gif.";
+		document.getElementById("gifchange").src = "images/timesquare.gif";
 }
 function delete3(){
 		document.getElementById("pic3").classList.remove("grey-filter");
-		document.getElementById("gifchange").src = "images/tenor.gif.";
+		document.getElementById("gifchange").src = "images/tenor.gif";
 }
 function delete4(){
 		document.getElementById("pic4").classList.remove("grey-filter");
-		document.getElementById("gifchange").src = "images/newyorkmove.gif.";
+		document.getElementById("gifchange").src = "images/newyorkmove.gif";
 }

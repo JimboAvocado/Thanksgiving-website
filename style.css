@@ -77,34 +77,29 @@
 	display: block;
 }
 .top{
-	height: 25%;
+	height: 20%;
 	width: 100%;
 	display: flex;
 }
 .mid{
-	height: 50%;
+	height: 40%;
 	width: 100%;
 	display: flex;
 }
 .bottom{
-	height: 50%;
+	height: 40%;
 	width: 100%;
-	display: block;
+	display: flex;
 }
 .grey-filter {
 	filter: grayscale(100%);
 }
 .box{
 	height: 50%;
-	width: 50%;
+	width: 100%;
 	display: flex;
-	justify-content: center;
-	align-items: center;
 }
-.center-content {
-	justify-content: center;
-	align-items: center;
-}
+
 .contain-image {
 	max-height: 100%;
 	max-width: 100%;
